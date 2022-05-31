@@ -37,6 +37,11 @@ GIVEN I need a new, secure password
 
 ## Links
 
+Repository Link  : https://github.com/simmypayyappillyvarghese/random-password-generator
+
+Deployed Application : https://simmypayyappillyvarghese.github.io/random-password-generator/
+
+
 ## Technologies Used
 
 * [x] HTML
